@@ -1,3 +1,5 @@
-﻿reports/
-results/
+﻿results/
 *.log
+reports/*
+!reports/stress-report/
+!reports/stress-report/**
